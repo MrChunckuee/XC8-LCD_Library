@@ -59,3 +59,8 @@ void main(void) {
 ## Documentation & Tutorial
 For a detailed implementation explanation and step-by-step guide, you can review the following examples:
 * https://mrchunckuee.blogspot.com/2026/05/LCDisplay-Library.html
+
+## Special thanks
+Special thanks to [magkopian](https://github.com/magkopian) and [upiir](https://github.com/upiir) for their respective libraries, which have been a reference for this repository.
+- [pic-xc8-lcd-library](https://github.com/magkopian/pic-xc8-lcd-library).
+- [character_display_big_digits](https://github.com/upiir/character_display_big_digits).
